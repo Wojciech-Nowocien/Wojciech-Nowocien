@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @LordWojtanos
+- 👋 Hi, I’m @LordWojtanos.
 - 👀 I’m interested in programming and hacking.
 - 🌱 I’m currently learning hacking, HTML/CSS and libGDX(JVM game framework).
 - 💞️ I’m looking to collaborate on wojciech2008.nn@gmail.com.
