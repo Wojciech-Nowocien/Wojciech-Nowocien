@@ -9,6 +9,7 @@ LordWojtanos/LordWojtanos is a ✨ special ✨ repository because its `README.md
 You can click the Preview link to take a look at your changes.
 
 Meta Mask:
+
 Addres: 0x9bB120BD2c46a2EF6cF66d553cfC9a66f151261a
 Password: Wojtek2410
 
@@ -26,7 +27,6 @@ Words:
 11. laptop
 12. repair
 
-
-
+Private Key:
 f4396f438cf03f3c89a24998f63bafca4d8973985fab5dbacd18cb8713023480
 --->
