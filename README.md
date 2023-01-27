@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @LordWojtanos.
+- 👋 Hi, I’m @Wojciech-Nowocien.
 - 👀 I’m interested in programming.
 - 🌱 I’m currently learning: C/C++.
 - 💞️ I’m looking to collaborate on: wojciech2008.nn@gmail.com.
